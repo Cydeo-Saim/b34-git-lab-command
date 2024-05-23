@@ -6,4 +6,6 @@ public class HomePage {
 
     // menu
 
+    // About me section
+
 }
